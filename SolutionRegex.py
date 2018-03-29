@@ -1,5 +1,5 @@
 ##### Homework 1 #####
-##### CNS-380/597 - Jonathan Petersen####
+##### CNS-380/597 ####
 import re
 
 #Write a regular expression to fit the following:
